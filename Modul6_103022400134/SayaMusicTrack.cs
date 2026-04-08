@@ -25,6 +25,8 @@ namespace Modul6_103022400134
 
         public void IncreasePlayCount(int count)
         {
+            Contract.Requires(playCount <= 25000000);
+            Contract.Requires(playCount > 0);
             playCount += count;
         }
 

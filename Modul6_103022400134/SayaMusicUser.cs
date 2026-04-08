@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 using System.Text;
 
 namespace Modul6_103022400134
@@ -12,6 +13,8 @@ namespace Modul6_103022400134
 
         public SayaMusicUser(string title)
         {
+            Contract.Requires(Username.Length <= 100);
+            Contract.Requires(Username != null);
             this.Username = Username;
             this.uploadedTracks = new List<SayaMusicTrack>();
         }
