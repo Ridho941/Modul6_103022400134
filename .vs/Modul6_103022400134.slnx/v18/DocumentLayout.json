@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL_MODX_SE-48_XX_NIM_KODE ASISTEN\\Modul6_103022400134\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A47CF7A-D296-C0AD-2504-59988DBDBAB3}|Modul6_103022400134\\Modul6_103022400134.csproj|d:\\kpl_modx_se-48_xx_nim_kode asisten\\modul6_103022400134\\modul6_103022400134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A47CF7A-D296-C0AD-2504-59988DBDBAB3}|Modul6_103022400134\\Modul6_103022400134.csproj|solutionrelative:modul6_103022400134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL_MODX_SE-48_XX_NIM_KODE ASISTEN\\Modul6_103022400134\\Modul6_103022400134\\Program.cs",
+              "RelativeDocumentMoniker": "Modul6_103022400134\\Program.cs",
+              "ToolTip": "D:\\KPL_MODX_SE-48_XX_NIM_KODE ASISTEN\\Modul6_103022400134\\Modul6_103022400134\\Program.cs",
+              "RelativeToolTip": "Modul6_103022400134\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:58:35.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
